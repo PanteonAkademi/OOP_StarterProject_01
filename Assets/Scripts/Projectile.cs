@@ -9,7 +9,6 @@ public class Projectile : MonoBehaviour
     public Rigidbody2D rb2d;
     public float deathDelay = 5;
 
-    public bool disabled = false;
 
     // Start is called before the first frame update
     void Start()
